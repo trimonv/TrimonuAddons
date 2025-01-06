@@ -14,7 +14,6 @@ A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock!
 - Custom term gui/ term solvers
 - Party commands
 - Positional Messages and more!
- and more!
 
 # How to use:
 

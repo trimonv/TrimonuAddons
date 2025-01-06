@@ -1,5 +1,5 @@
 # Trimonu Addons
-A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock!
+A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Dungeons (mostly f7/m7)!
 
 # Features:
 - Better party finder gui

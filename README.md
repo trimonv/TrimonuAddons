@@ -6,7 +6,7 @@ A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock 
 - Blood camp helper
 - Death messages
 - Leap menu
-- Partyfinder autokick (/cyan autokick)
+- Partyfinder autokick (/autokick)
 - Melody Alert
 - SBE blood fix
 - Shadow assassin teleport alert
